@@ -15,7 +15,7 @@ class GuessingGame {
   }
 
   lower() {
-
+    this._max = this._guessNumber;
   }
 
   greater() {
